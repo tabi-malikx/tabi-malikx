@@ -4,7 +4,9 @@
 
 Browse the repositories below for project documentation and development notes.
 
-## Games
+## Selected projects
+
+### Games
 
 | Repository |
 | --- |
@@ -14,7 +16,7 @@ Browse the repositories below for project documentation and development notes.
 | [Mobile Tennis](https://github.com/tabi-malikx/mobile-tennis) |
 | [Badminton League Pro](https://github.com/tabi-malikx/badminton-league-pro) |
 
-## Discord projects
+### Discord projects
 
 | Repository |
 | --- |
