@@ -1,16 +1,22 @@
-## Hi there 👋
+<p align="center"><img src="./assets/banner.svg" alt="Muhammad Tayyab — Project Index" width="100%" /></p>
 
-<!--
-**tabi-malikx/tabi-malikx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Project index
 
-Here are some ideas to get you started:
+Browse the repositories below for project documentation and development notes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Games
+
+| Repository |
+| --- |
+| [Beneath Greyhaven](https://github.com/tabi-malikx/beneath-greyhaven) |
+| [Ashes of Escape](https://github.com/tabi-malikx/ashes-of-escape) |
+| [Echoes of Desolation](https://github.com/tabi-malikx/echoes-of-desolation) |
+| [Mobile Tennis](https://github.com/tabi-malikx/mobile-tennis) |
+| [Badminton League Pro](https://github.com/tabi-malikx/badminton-league-pro) |
+
+## Discord projects
+
+| Repository |
+| --- |
+| [Morphic](https://github.com/tabi-malikx/morphic-discord-bot) |
+| [Discord Community Manager](https://github.com/tabi-malikx/discord-community-manager) |
